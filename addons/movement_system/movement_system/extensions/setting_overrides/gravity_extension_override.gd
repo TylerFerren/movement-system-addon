@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Gravity Settings.svg")
+@icon("res://addons/movement_system/movement_system/icons/Gravity Settings.svg")
 class_name GravityExtensionOverride
 extends ExtensionSettingOverride
 

@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Movement_Manager.svg")
+@icon("res://addons/movement_system/movement_system/icons/Movement_Manager.svg")
 class_name MovementManager
 extends Node
 

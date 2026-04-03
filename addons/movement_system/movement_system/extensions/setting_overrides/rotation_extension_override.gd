@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Rotation Settings.svg")
+@icon("res://addons/movement_system/movement_system/icons/Rotation Settings.svg")
 class_name RotationExtensionOverride
 extends ExtensionSettingOverride
 

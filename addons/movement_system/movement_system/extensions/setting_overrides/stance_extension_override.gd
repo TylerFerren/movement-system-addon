@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Stance Settings.svg")
+@icon("res://addons/movement_system/movement_system/icons/Stance Settings.svg")
 class_name StanceExtensionOverride
 extends ExtensionSettingOverride
 

@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Locomotion.svg")
+@icon("res://addons/movement_system/movement_system/icons/Locomotion.svg")
 class_name Locomotion
 extends MovementExtension
 

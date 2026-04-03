@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Gravity.svg")
+@icon("res://addons/movement_system/movement_system/icons/Gravity.svg")
 class_name Gravity
 extends MovementExtension
 

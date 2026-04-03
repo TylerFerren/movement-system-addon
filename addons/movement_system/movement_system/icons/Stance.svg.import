@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://40vh4pdh8acs"
-path="res://.godot/imported/Stance Settings.svg-1fc4bf48a124fa56b457f9b6270c532e.ctex"
+uid="uid://dawumwgcfvjnr"
+path="res://.godot/imported/Stance.svg-f758bfd90f981d45b2f8cc5c22bf6a03.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://movement_system/icons/Stance Settings.svg"
-dest_files=["res://.godot/imported/Stance Settings.svg-1fc4bf48a124fa56b457f9b6270c532e.ctex"]
+source_file="res://addons/movement_system/movement_system/icons/Stance.svg"
+dest_files=["res://.godot/imported/Stance.svg-f758bfd90f981d45b2f8cc5c22bf6a03.ctex"]
 
 [params]
 

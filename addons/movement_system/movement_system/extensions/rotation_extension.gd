@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Rotation.svg")
+@icon("res://addons/movement_system/movement_system/icons/Rotation.svg")
 class_name Rotation
 extends MovementExtension
 

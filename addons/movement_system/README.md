@@ -9,9 +9,8 @@ This addon registers the movement system classes as custom node types.
 
 ## Reuse In Another Project
 
-Copy both folders into the target project:
+Copy this folder into the target project:
 
-- `res://movement_system`
-- `res://addons/movement_system`
+- `res://addons/movement_system` (contains all movement system scripts/assets)
 
 Then enable the plugin in that project.

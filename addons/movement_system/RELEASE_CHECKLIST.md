@@ -36,7 +36,6 @@ Use this checklist when publishing a new GitHub release of the addon.
 Release package should include:
 
 - `addons/movement_system/`
-- `movement_system/`
 
 Do not include:
 
@@ -51,7 +50,7 @@ From repo root:
 ```bash
 mkdir -p dist
 rm -f dist/movement-system-addon-vX.Y.Z.zip
-zip -r dist/movement-system-addon-vX.Y.Z.zip addons/movement_system movement_system
+zip -r dist/movement-system-addon-vX.Y.Z.zip addons/movement_system
 ```
 
 Replace `X.Y.Z` with your release version.

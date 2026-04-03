@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Jump Settings.svg")
+@icon("res://addons/movement_system/movement_system/icons/Jump Settings.svg")
 class_name JumpExtensionOverride
 extends ExtensionSettingOverride
 

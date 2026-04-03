@@ -5,80 +5,80 @@ const TYPES := [
 	{
 		"name": "MovementManager",
 		"base": "Node",
-		"script": "res://movement_system/movement_manager.gd",
-		"icon": "res://movement_system/icons/Movement_Manager.svg"
+		"script": "res://addons/movement_system/movement_system/movement_manager.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Movement_Manager.svg"
 	},
 	{
 		"name": "MovementModeManager",
 		"base": "Node",
-		"script": "res://movement_system/movement_modes/movement_mode_manager.gd",
-		"icon": "res://movement_system/icons/Mode Manager.png"
+		"script": "res://addons/movement_system/movement_system/movement_modes/movement_mode_manager.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Mode Manager.png"
 	},
 	{
 		"name": "MovementMode",
 		"base": "Node",
-		"script": "res://movement_system/movement_modes/movement_mode.gd",
-		"icon": "res://movement_system/icons/Mode.png"
+		"script": "res://addons/movement_system/movement_system/movement_modes/movement_mode.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Mode.png"
 	},
 	{
 		"name": "Locomotion",
 		"base": "Node",
-		"script": "res://movement_system/extensions/locomotion_extension.gd",
-		"icon": "res://movement_system/icons/Locomotion.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/locomotion_extension.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Locomotion.svg"
 	},
 	{
 		"name": "Rotation",
 		"base": "Node",
-		"script": "res://movement_system/extensions/rotation_extension.gd",
-		"icon": "res://movement_system/icons/Rotation.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/rotation_extension.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Rotation.svg"
 	},
 	{
 		"name": "Jump",
 		"base": "Node",
-		"script": "res://movement_system/extensions/jump_extension.gd",
-		"icon": "res://movement_system/icons/Jump.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/jump_extension.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Jump.svg"
 	},
 	{
 		"name": "Gravity",
 		"base": "Node",
-		"script": "res://movement_system/extensions/gravity_extension.gd",
-		"icon": "res://movement_system/icons/Gravity.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/gravity_extension.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Gravity.svg"
 	},
 	{
 		"name": "Stance",
 		"base": "Node",
-		"script": "res://movement_system/extensions/stance_extension.gd",
-		"icon": "res://movement_system/icons/Stance.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/stance_extension.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Stance.svg"
 	},
 	{
 		"name": "LocomotionExtensionOverride",
 		"base": "Node",
-		"script": "res://movement_system/extensions/setting_overrides/locomotion_extension_override.gd",
-		"icon": "res://movement_system/icons/Locomotion Settings.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/setting_overrides/locomotion_extension_override.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Locomotion Settings.svg"
 	},
 	{
 		"name": "RotationExtensionOverride",
 		"base": "Node",
-		"script": "res://movement_system/extensions/setting_overrides/rotation_extension_override.gd",
-		"icon": "res://movement_system/icons/Rotation Settings.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/setting_overrides/rotation_extension_override.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Rotation Settings.svg"
 	},
 	{
 		"name": "JumpExtensionOverride",
 		"base": "Node",
-		"script": "res://movement_system/extensions/setting_overrides/jump_extension_override.gd",
-		"icon": "res://movement_system/icons/Jump Settings.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/setting_overrides/jump_extension_override.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Jump Settings.svg"
 	},
 	{
 		"name": "GravityExtensionOverride",
 		"base": "Node",
-		"script": "res://movement_system/extensions/setting_overrides/gravity_extension_override.gd",
-		"icon": "res://movement_system/icons/Gravity Settings.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/setting_overrides/gravity_extension_override.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Gravity Settings.svg"
 	},
 	{
 		"name": "StanceExtensionOverride",
 		"base": "Node",
-		"script": "res://movement_system/extensions/setting_overrides/stance_extension_override.gd",
-		"icon": "res://movement_system/icons/Stance Settings.svg"
+		"script": "res://addons/movement_system/movement_system/extensions/setting_overrides/stance_extension_override.gd",
+		"icon": "res://addons/movement_system/movement_system/icons/Stance Settings.svg"
 	},
 ]
 

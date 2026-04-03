@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Jump.svg")
+@icon("res://addons/movement_system/movement_system/icons/Jump.svg")
 class_name Jump
 extends MovementExtension
 

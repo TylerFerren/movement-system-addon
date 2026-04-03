@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://3n1fi8qiwxr5"
-path="res://.godot/imported/Gravity.svg-0ff918997170f7083cff4aade0673e0b.ctex"
+uid="uid://dsdyxtq62u5oe"
+path="res://.godot/imported/Jump.svg-2557f046bab6559492c18481932e8e4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://movement_system/icons/Gravity.svg"
-dest_files=["res://.godot/imported/Gravity.svg-0ff918997170f7083cff4aade0673e0b.ctex"]
+source_file="res://addons/movement_system/movement_system/icons/Jump.svg"
+dest_files=["res://.godot/imported/Jump.svg-2557f046bab6559492c18481932e8e4f.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ck5l5b0in3rd8"
-path="res://.godot/imported/Rotation Settings.svg-16946b6ff5683f90e1fd72473c364832.ctex"
+uid="uid://1i6ej2vbse4d"
+path="res://.godot/imported/Jump Settings.svg-7d0c323e690ff30791a0fd8bf95462dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://movement_system/icons/Rotation Settings.svg"
-dest_files=["res://.godot/imported/Rotation Settings.svg-16946b6ff5683f90e1fd72473c364832.ctex"]
+source_file="res://addons/movement_system/movement_system/icons/Jump Settings.svg"
+dest_files=["res://.godot/imported/Jump Settings.svg-7d0c323e690ff30791a0fd8bf95462dc.ctex"]
 
 [params]
 

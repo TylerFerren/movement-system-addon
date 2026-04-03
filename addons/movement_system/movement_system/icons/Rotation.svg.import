@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://kwgjkiejdilw"
-path="res://.godot/imported/Locomotion.svg-2200566aa677b2d55e96681f54b82049.ctex"
+uid="uid://0p6mxalakv8y"
+path="res://.godot/imported/Rotation.svg-725a6f48debc23a74f5ee08a90cd0934.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://movement_system/icons/Locomotion.svg"
-dest_files=["res://.godot/imported/Locomotion.svg-2200566aa677b2d55e96681f54b82049.ctex"]
+source_file="res://addons/movement_system/movement_system/icons/Rotation.svg"
+dest_files=["res://.godot/imported/Rotation.svg-725a6f48debc23a74f5ee08a90cd0934.ctex"]
 
 [params]
 

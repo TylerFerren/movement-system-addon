@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Locomotion Settings.svg")
+@icon("res://addons/movement_system/movement_system/icons/Locomotion Settings.svg")
 class_name LocomotionExtensionOverride
 extends ExtensionSettingOverride
 

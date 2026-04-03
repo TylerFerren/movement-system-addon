@@ -1,4 +1,4 @@
-@icon("res://movement_system/icons/Stance.svg")
+@icon("res://addons/movement_system/movement_system/icons/Stance.svg")
 class_name Stance
 extends MovementExtension
 

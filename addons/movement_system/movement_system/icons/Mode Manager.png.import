@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://1i6ej2vbse4d"
-path="res://.godot/imported/Jump Settings.svg-7d0c323e690ff30791a0fd8bf95462dc.ctex"
+uid="uid://kjhyweqvsv4"
+path="res://.godot/imported/Mode Manager.png-72837dbcdc42c9eca15286d72bfa4afd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://movement_system/icons/Jump Settings.svg"
-dest_files=["res://.godot/imported/Jump Settings.svg-7d0c323e690ff30791a0fd8bf95462dc.ctex"]
+source_file="res://addons/movement_system/movement_system/icons/Mode Manager.png"
+dest_files=["res://.godot/imported/Mode Manager.png-72837dbcdc42c9eca15286d72bfa4afd.ctex"]
 
 [params]
 
@@ -38,6 +38,3 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
-svg/scale=1.0
-editor/scale_with_editor_scale=false
-editor/convert_colors_with_editor_theme=false

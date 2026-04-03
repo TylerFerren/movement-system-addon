@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dsdyxtq62u5oe"
-path="res://.godot/imported/Jump.svg-2557f046bab6559492c18481932e8e4f.ctex"
+uid="uid://dvxx8uv5llfi"
+path="res://.godot/imported/Locomotion Settings.svg-db223b25ea748bb57f5e45acee5477ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://movement_system/icons/Jump.svg"
-dest_files=["res://.godot/imported/Jump.svg-2557f046bab6559492c18481932e8e4f.ctex"]
+source_file="res://addons/movement_system/movement_system/icons/Locomotion Settings.svg"
+dest_files=["res://.godot/imported/Locomotion Settings.svg-db223b25ea748bb57f5e45acee5477ca.ctex"]
 
 [params]
 

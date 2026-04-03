@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://7f04b63npikt"
-path="res://.godot/imported/Mode.png-576a9d1f67a12e8363e3d905daa97dc8.ctex"
+uid="uid://duunpo785hkxe"
+path="res://.godot/imported/Movement_Manager.svg-09171d00968d82e6c6cd7d8b7f4bad05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://movement_system/icons/Mode.png"
-dest_files=["res://.godot/imported/Mode.png-576a9d1f67a12e8363e3d905daa97dc8.ctex"]
+source_file="res://addons/movement_system/movement_system/icons/Movement_Manager.svg"
+dest_files=["res://.godot/imported/Movement_Manager.svg-09171d00968d82e6c6cd7d8b7f4bad05.ctex"]
 
 [params]
 
@@ -38,3 +38,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false
