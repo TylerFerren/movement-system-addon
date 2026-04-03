@@ -4,7 +4,6 @@ extends Node
 
 @export var controller: CharacterBody3D
 @export var camera: Camera3D
-@export var input_context : GUIDEMappingContext
 
 var extensions: Array[MovementExtension] = []
 var mode_manager: MovementModeManager
@@ -20,8 +19,6 @@ signal on_start_in_air
 #var current_velocity : Vector3 
 
 func _ready() -> void:
-	GUIDE.enable_mapping_context(input_context)
-	
 	_ensure_controller_and_camera_are_assigned()
 
 	extensions.clear()
